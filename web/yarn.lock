@@ -2098,10 +2098,10 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
-lucide-react@^0.105.0:
-  version "0.105.0"
-  resolved "https://registry.yarnpkg.com/lucide-react/-/lucide-react-0.105.0.tgz#545bf09598d47dc6018136088d705f0fc054ce5a"
-  integrity sha512-iHaIkd4Wq6aNIVrFMXt3If8E/+2lnJd4WlCyntoJNIzZ8nWhdSSHWpsw7XM4rlw2319LZ2t4WLdnM8Z0ECDTOQ==
+lucide-react@^0.418.0:
+  version "0.418.0"
+  resolved "https://registry.yarnpkg.com/lucide-react/-/lucide-react-0.418.0.tgz#52c9d9498859ff9edde4ff1c72a77aa7f1c269e9"
+  integrity sha512-7TSd4CLfvT/U9504MSJ+e03pgAvqZQ5WbML4Pm+axjCbYBLTWuDu68bebFr/e51Z32uHMY7MO+SpaHX8NubveA==
 
 make-dir@^2.1.0:
   version "2.1.0"
